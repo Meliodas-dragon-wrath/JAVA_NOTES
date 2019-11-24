@@ -1,0 +1,21 @@
+Identifier(also includes variable names,class,interface etc names) name  should not start with the special characters like & (ampersand), $ (dollar), _ (underscore) and number too.
+
+1.DIFFERENT WAYS TO CREATE AN OBJECT:
+	1.BY NEW KEYWORD.
+	2.by newInstance() method
+	3. by clone() method
+	4.by factory method.
+
+2.INITIALIZING an attribute using OBJECT:
+	1.by call by reference.
+	2.by method
+	3.using constructor.
+
+3.ANONYMOUS OBJECT:
+	object used for only once;
+	can be defined as:
+	new Classname();
+  can be used as:
+	new Classname().method_name();
+
+4.multiple objects can be created same as variables.
