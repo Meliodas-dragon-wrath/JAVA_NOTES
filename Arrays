@@ -1,0 +1,11 @@
+
+
+int[] = array;
+array = new int[1000];
+
+
+
+String[] fruits = new String[1000];
+/// fruits calling by reference  and new is allocating memory to referenced values.
+
+String[][] a = new a[1][3];
